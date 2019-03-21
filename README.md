@@ -1,4 +1,4 @@
-phish.sh is a simle script which was made for quickly setting up phishing environment on Ubuntu servers
+phish.sh is a simple script which was made for quickly setting up phishing environment on Ubuntu servers
 
 This script installs below softwares/services to ubuntu machine
 
